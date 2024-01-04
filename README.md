@@ -20,7 +20,7 @@
 
 ### 阿里云矢量图来源
 
-链接: [阿里云设计中心](https://www.iconfont.cn/user/detail?spm=a313x.7781069.1998910419.d78986de3&uid=6856114&nid=6fznOUHG5e4q) | [阿里云产品类别](https://www.aliyun.com/product/list)
+链接: [阿里云设计中心](https://www.iconfont.cn/user/detail?uid=6856114) | [阿里云产品类别](https://www.aliyun.com/product/list)
 
 矢量图标颜色代码: `#ff6a00`
 

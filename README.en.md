@@ -19,7 +19,7 @@ So I collected a complete set of Alibaba Cloud vector icons and generated the dr
 
 ### Sources of Alibaba Cloud Vector Icons
 
-Links: [Alibaba Cloud Design Center](https://www.iconfont.cn/user/detail?spm=a313x.7781069.1998910419.d78986de3&uid=6856114&nid=6fznOUHG5e4q) | [Categories of Alibaba Cloud Products](https://www.aliyun.com/product/list)
+Links: [Alibaba Cloud Design Center](https://www.iconfont.cn/user/detail?uid=6856114) | [Categories of Alibaba Cloud Products](https://www.aliyun.com/product/list)
 
 Color Code: `#ff6a00`
 
