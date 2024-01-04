@@ -10,7 +10,7 @@
 因此，在画阿里云相关的网络拓扑图和架构图时，和AWS、Azure、GCP相比，很不方便。  
 于是，我收集整理了一套完整的阿里云矢量图标，分别标注了中英文名称，并生成了相应的draw.io图标库，方便自己的同时也希望能够帮助到大家。  
 
-### draw.io 自定义库图标截图
+### draw.io 自定义图标库截图
 
 ![](screenshots/alibaba-cloud-drawio-library.jpg)
 
