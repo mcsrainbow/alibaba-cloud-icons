@@ -2,7 +2,7 @@
     <strong>中文</strong> | <a href="./README.en.md">English</a>
 </p>
 
-## 阿里云官方矢量图标和 draw.io 自定义库
+## 阿里云官方矢量图标和 draw.io 自定义图标库
 
 ### 背景
 
