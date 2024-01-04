@@ -16,7 +16,7 @@
 
 ### draw.io 自定义库下载
 
-<a href="2022-orange/drawio/cn/Alibaba%20Cloud.xml">Alibaba Cloud.xml</a>
+<a href="2022-orange/drawio/cn/Alibaba%20Cloud.xml">中文版Alibaba Cloud.xml</a> ｜ <a href="2022-orange/drawio/en/Alibaba%20Cloud.xml">英文版Alibaba Cloud.xml</a>
 
 ### 阿里云矢量图来源
 
