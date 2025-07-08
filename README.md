@@ -12,7 +12,7 @@
 
 ### draw.io 自定义图标库截图
 
-![](screenshots/alibaba-cloud-drawio-library.jpg)
+![](screenshots/alibaba-cloud-drawio-library.png)
 
 ### draw.io 自定义库下载
 
